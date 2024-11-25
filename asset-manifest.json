@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/projectgovo/static/css/main.023e8d93.css",
+    "main.js": "/projectgovo/static/js/main.23cf014a.js",
+    "static/js/453.ea12e7a2.chunk.js": "/projectgovo/static/js/453.ea12e7a2.chunk.js",
+    "index.html": "/projectgovo/index.html",
+    "main.023e8d93.css.map": "/projectgovo/static/css/main.023e8d93.css.map",
+    "main.23cf014a.js.map": "/projectgovo/static/js/main.23cf014a.js.map",
+    "453.ea12e7a2.chunk.js.map": "/projectgovo/static/js/453.ea12e7a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.023e8d93.css",
+    "static/js/main.23cf014a.js"
+  ]
+}
